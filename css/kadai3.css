@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:navy;
+}
+
+body{
+    background-image:url("../images/yuki.jpg");
+}
+
+h2{
+    color:midnightblue;
+    text-align:center;
+    background-color:aliceblue;
+}
+
+h3{
+    color:darkblue;
+}
