@@ -1,0 +1,24 @@
+h1{
+    color:white;
+    text-align: center;
+    background-color:royalblue;
+}
+
+body{
+    background-image: url("../images/iruka.jpg");
+    
+}
+
+h2{
+    color:aliceblue;
+    text-align: center;
+    background-color: midnightblue;
+}
+
+table{
+    background-color: cyan;
+}
+
+ol{
+    background-image: url("../images/yuki.jpg");
+}

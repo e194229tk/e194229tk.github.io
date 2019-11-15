@@ -1,0 +1,18 @@
+h1{
+    color:aquamarine;
+    font-family:Bookman Old Style;
+    text-align:center;
+    background-color:black;
+}
+
+p{
+    font-size:25px;
+    font-weight:bold;
+}
+
+body{
+    background-image:url("../images/2012061317563538a%5B1%5D.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
