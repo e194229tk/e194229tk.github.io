@@ -1,0 +1,27 @@
+.A{
+    color: snow;
+    text-align: center;
+    background-color: royalblue;
+}
+
+.B{
+    color:lightskyblue;
+    text-align: center;
+    background-color: midnightblue;
+}    
+
+body{
+    background-image:url("../images/yuki.jpg");
+}
+
+.C{
+    color:skyblue;
+    text-align: center;
+    background-color: darkblue;
+}
+
+.D{
+    color: cyan;
+    text-align: center;
+    background-color: darkslateblue;
+}
