@@ -6,3 +6,11 @@ h1#kudo{
     font-family: "impact"; 
     font-size: 60px;
 }
+
+h2{
+    color: red !important;
+}
+
+h2{
+    color: aqua;
+}
