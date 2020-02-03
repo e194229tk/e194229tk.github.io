@@ -1,0 +1,64 @@
+div.title{
+    width: 970px;
+    height: 50px;
+    background-color: darkslateblue;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    color: azure;
+    font-family: serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 40px;
+    background-color: lightskyblue;
+    font-family: serif;
+    text-align: center;
+    color: midnightblue;
+    font-size: 25px;
+}
+
+div.menu{
+    width: 1000px;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+h2.a{
+    color: white;
+    text-align: center;
+    background-color: darkslateblue;
+    font-family: serif;
+    
+}
+
+h3.kimetsu{
+    color: aquamarine;
+    text-align: center;
+    background-color: black;
+    font-family: serif;
+}
+
+h3.hina{
+    color: #FF1493;
+    text-align: center;
+    background-color: black;
+    font-family: serif;
+}
+
+h3.made{
+    color: #FFD700;
+    text-align: center;
+    background-color: black;
+    font-family: serif;
+}
+body{
+    background-image: url(../images/d.jpg);
+}

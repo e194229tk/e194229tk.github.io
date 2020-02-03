@@ -1,0 +1,126 @@
+div.title{
+    width: 970px;
+    height: 50px;
+    background-color: darkslateblue;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    color: azure;
+    font-family: serif;
+    text-align: center;
+    font-size: 25px;
+}
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 40px;
+    background-color: lightskyblue;
+    font-family: serif;
+    text-align: center;
+    color: midnightblue;
+    font-size: 25px;
+}
+
+div.menu{
+    width: 1000px;
+}
+
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
+
+h2.space{
+    color: deepskyblue;
+    background-color: midnightblue;
+    text-align: center;
+    font-family: serif;
+}
+
+h2.tentai{
+    color: aqua;
+    background-color: midnightblue;
+    text-align: center;
+    font-family: serif;
+}
+
+h3.st{
+    color: violet;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h3.vi{
+    color: #FFD700;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h3.ma{
+    color: #FF4500;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h2.kousei{
+    color: aqua;
+    background-color: midnightblue;
+    text-align: center;
+    font-family: serif;
+}
+
+h3.sri{
+    color: #00BFFF;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h3.ak{
+    color: #FF6347;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h3.supi{
+    color: #8EF1FF;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h2.seiun{
+    color: #A7F1FF;
+    background-color: midnightblue;
+    text-align: center;
+    font-family: serif;
+}
+h3.ori{
+    color: #FF5192;
+    background-color: black;
+    text-align: center;
+    font-family: serif
+}
+
+h3.batou{
+    color: #FF9872;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+h3.washi{
+    color: #FF6699;
+    background-color: black;
+    text-align: center;
+    font-family: serif;
+}
+
+body{
+    background-image: url(../images/g.jpg);
+}

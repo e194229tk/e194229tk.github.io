@@ -1,0 +1,56 @@
+div.title{
+    width: 970px;
+    height: 50px;
+    background-color: darkslateblue;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    color: azure;
+    font-family: serif;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+span.menuitem{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 40px;
+    background-color: lightskyblue;
+    font-family: serif;
+    text-align: center;
+    color: midnightblue;
+    font-size: 25px;
+}
+
+div.menu{
+    width: 1000px;
+}
+
+div.wrap{
+    width:1000px;
+    margin: 0px auto;
+}
+
+h3{
+    color: white;
+    margin-bottom: 10px;
+}
+
+
+table{
+    
+    color: snow;
+}
+body{
+    background-image: url(../images/yoru.jpg);
+}
+
+table.alute{
+    table-layout: auto;
+    border:2px dashed snow;
+}
+
+address{
+    color: azure;
+}
